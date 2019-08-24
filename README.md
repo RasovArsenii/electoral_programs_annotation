@@ -1,5 +1,5 @@
 This component provides a text analysis method that uses a Tf-Idf matrix and SVM to identify the political direction of each particular sentence.
-By default, the component contains a model trained on Manifesto data, which provides accuracy of up to 63% on the same as Manifesto data. 
+By default, the component uses a model trained on Manifesto data (you can download the models for different languages here: https://yadi.sk/d/KmjzVHfTmvMlRw), which provides accuracy of up to 60% on the same as Manifesto data. 
 
 Also you can use our visualization fucntion that show how accurate computer labels data, according to human labeling.
 That fuctions based on Pearson correlation coefficient.
